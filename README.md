@@ -9,7 +9,7 @@ A playful, emoji-powered mini-game inspired by classic 1980s “Battlefield”-s
 
 ## 🌐 Live Demo
 
-👉 **[Try the game live here](YOUR_LIVE_DEMO_LINK_HERE)**
+👉 **[Try the game live here](https://emoji-fighter-with-js.vercel.app/)**
 
 ---
 
