@@ -1,6 +1,6 @@
 
 
-# 🥊 Emoji Fighter (JS)
+# 🥊 Emoji Fighter (JS project)
 
 A playful, emoji-powered mini-game inspired by classic 1980s “Battlefield”-style combat. Random emojis face off in hilarious matchups — who will emerge victorious?
 
